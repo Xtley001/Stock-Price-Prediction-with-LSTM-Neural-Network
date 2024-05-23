@@ -14,10 +14,7 @@ The project involves the following steps:
 
 ## Installation
 
-To run this project, you need to install the required libraries. You can do this using pip:
-
-```bash
-pip install yfinance plotly keras numpy scikit-learn pandas
+To run this project, you need to install the required libraries. 
 
 
 # Usage
