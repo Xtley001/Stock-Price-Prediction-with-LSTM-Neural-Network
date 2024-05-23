@@ -19,6 +19,7 @@ To run this project, you need to install the required libraries. You can do this
 ```bash
 pip install yfinance plotly keras numpy scikit-learn pandas
 
+
 # Usage
 ## Retrieve Historical Data
 The script fetches historical stock price data from Yahoo Finance using the yfinance library. To use this for different stocks, change the ticker symbol (e.g., 'TSLA' for Tesla) in the code.
